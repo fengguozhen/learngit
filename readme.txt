@@ -7,3 +7,4 @@ Create a new branch is quick AND simple
 insert into new message
 test no user --no-ff
 use ssh push
+really use ssh push
