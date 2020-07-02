@@ -11,3 +11,6 @@ test no user --no-ff
 use ssh push
 really use ssh push
 222222
+dev insert and push to origin dev
+origin dev merger to master
+
